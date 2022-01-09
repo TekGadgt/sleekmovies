@@ -1,0 +1,5 @@
+.netlify/
+.env
+yarn.lock
+node_modules/
+.git/
